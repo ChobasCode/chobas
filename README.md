@@ -1,2 +1,0 @@
-# chobas
-chobas website
